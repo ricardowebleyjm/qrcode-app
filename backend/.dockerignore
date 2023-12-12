@@ -1,0 +1,4 @@
+# .dockerignore
+
+# Ignore specific directories or files
+env/
